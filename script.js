@@ -7,16 +7,7 @@ var nowHour12 = moment().format('h');
 var $dateHeading = $('#time');
   $dateHeading.text(now);
 
-
-
-
-
-
-
-
-
-
-
+  $("button").click(function(){
 
 
 
