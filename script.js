@@ -19,7 +19,7 @@ $(document).ready(function () {
     if (currentHour < workHours[i]) {
       inputElement.css("background-color", "pink");
     }
-    else if (currentHour === workHours[i]) {
+    else if (currentHour == workHours[i]) {
       inputElement.css("background-color", "grey");
     }
     else {
