@@ -13,11 +13,11 @@ Clicking on the save button will store the time and user input in localStorage.
 
 Near the top of the calendar, it displays the current day. Additionally, input schedule text box will change color according to current time. 
 
--- If the time has passed current time, the text box will turn into pink.
+-- If the time has passed current time, the text box will turn into yellow.
 
 -- If the time is current time, the text box will turn into grey.
 
--- If the time is future time, the text box will turn into yellow.
+-- If the time is future time, the text box will turn into pink.
 
 ## Here is my day planner link
 ( https://teresaliuu.github.io/HW-5-DayPlanner/ )
