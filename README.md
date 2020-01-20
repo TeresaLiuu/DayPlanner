@@ -20,5 +20,5 @@ Near the top of the calendar, it displays the current day. Additionally, input s
 -- If the time is future time, the text box will turn into pink.
 
 ## Here is my day planner link
-( https://teresaliuu.github.io/HW-5-DayPlanner/ )
+( https://teresaliuu.github.io/DayPlanner/ )
 
