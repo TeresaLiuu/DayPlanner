@@ -17,13 +17,13 @@ $(document).ready(function () {
     var inputElement = $('.form-control').eq(i); 
 
     if (currentHour < workHours[i]) {
-      inputElement.css("background-color", "pink");
+      inputElement.css("background-color", "#433C4E");
     }
     else if (currentHour == workHours[i]) {
-      inputElement.css("background-color", "grey");
+      inputElement.css("background-color", "#7889A7");
     }
     else {
-      inputElement.css("background-color", "yellow");
+      inputElement.css("background-color", "#B1B0AA");
     };
 
     var buttonElement = $('.btn-primary').eq(i); 
